@@ -1,3 +1,5 @@
-this is my first file. 
+this is my first file.
 
-I've just made a change on the remote repo. 
+I've just made a change on the remote repo.
+
+Let's make a merge. 
